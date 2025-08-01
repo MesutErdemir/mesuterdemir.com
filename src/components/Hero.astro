@@ -1,0 +1,27 @@
+---
+import type { HeroProps } from "@types";
+type Props = HeroProps;
+
+const { name, specialty, summary, email } = Astro.props;
+---
+
+<section class="py-24 md:py-32" id="#hero">
+  <h1
+    class="mb-1.5 font-serif text-7xl font-bold tracking-tightest text-white sm:text-8xl md:mb-0 md:text-9xl"
+  >
+    {name}
+  </h1>
+  <p
+    class="mb-9 font-serif text-4xl leading-[46px] font-bold tracking-tighter text-primary sm:text-5xl md:text-6xl"
+  >
+    {specialty}
+  </p>
+  <p class="mb-16 text-base font-normal text-neutral md:text-lg">
+    {summary}
+  </p>
+
+  <a
+    class="inline-block rounded-full bg-primary px-8 py-5 text-sm leading-5 font-medium text-[#fff]"
+    href="&#109;a&#105;l&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#64;&#109;&#101;&#115;&#117;&#116;&#101;&#114;&#100;&#101;&#109;&#105;&#114;&#46;&#99;&#111;&#109;">Get in Touch</a
+  >
+</section>
