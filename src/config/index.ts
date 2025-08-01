@@ -41,6 +41,15 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
   ],
+  projects: [
+    {
+      name: "My Project",
+      summary: "My project description",
+      linkPreview: "/",
+      linkSource: "https://mesuterdemir.com",
+      image: "/project.png",
+    },
+  ],
   about: {
     description: `
       I have been passionate about software development since high school. I started this adventure with Microsoft technologies and continue with free(as a speech) software technologies, especially with PHP.
