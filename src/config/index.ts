@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Mesut Erdemir — Software Engineering Manager",
   author: "Mesut Erdemir",
   description:
-    "I specialize in web technologies and web hosting solutions, with extensive experience in designing, developing, and maintaining modern web applications and scalable software infrastructures.",
+    "I specialize in backend development with PHP and web hosting solutions, with extensive experience in designing, developing, and maintaining modern web applications and scalable software infrastructures.",
   lang: "en",
   siteLogo: "/mesut-small.jpg",
   navLinks: [
@@ -25,7 +25,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Mesut Erdemir",
     specialty: "Software Engineering Manager & Senior Linux Engineer",
     summary:
-      "I specialize in web technologies and web hosting solutions, with extensive experience in designing, developing, and maintaining modern web applications and scalable software infrastructures.",
+      "I specialize in backend development with PHP and web hosting solutions, with extensive experience in designing, developing, and maintaining modern web applications and scalable software infrastructures.",
     email: "hello@mesuterdemir.com",
   },
   experience: [
