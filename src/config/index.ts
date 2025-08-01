@@ -35,9 +35,9 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2011",
       endDate: "Current",
       summary: [
-        "In general, the software design, integration and maintenance of the systems turhost.com needs and keeping them running is my primary responsibility. In addition, since I am very experienced in Linux distributions, I support the technical team on issues that are stuck.",
+        "In general, my primary responsibility is the design, integration, and maintenance of the systems required by turhost.com, as well as ensuring their continuous operation. Additionally, with my extensive experience in Linux distributions, I provide support to the technical team when they encounter challenging issues.",
         "I designed and implemented a cloud server provisioning system utilizing various virtualization platforms, which deepened my expertise in cloud infrastructure and automation.",
-        "I took part in the software design, platform migration(emails and websites) and backend coding of the TTNet Webim platform. I have created an ecosystem that includes the provisioning system, back office panel and customer panel. This project has won the Stevie® Award(Bronze) on October 10, 2014.",
+        "I took part in the software design, platform migration (emails and websites), and backend development of the TTNet Webim platform. I created an ecosystem including the provisioning system, back office panel and customer panel. This project won the Bronze Stevie® Award on October 10, 2014.",
       ],
     },
   ],
